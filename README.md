@@ -5,6 +5,7 @@ project on [Semaphore 2.0](https://semaphoreci.com).
 
 ## Application overview
 
+
 ### Features
 
  - Simple login screen
